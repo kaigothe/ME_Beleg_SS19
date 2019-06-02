@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"69-07022011-059809";"";
+"REFERENCE";"41 04 0030 0278/000";"";
+"TraceParts.PartTitle";"Bolzen Edelstahl 1.4305 mit Kopf DIN EN 22341/ISO 2341/(ähnlich DIN 1444) Form B";"";
+"TraceParts.InstanceId";"69-07022011-059809FA9CLHGPF0LYFU4FN0XFYPJU";"";
+"DESIGN";"Bolzen Edelstahl 1.4305 mit Kopf DIN EN 22341/ISO 2341/(ähnlich DIN 1444) Form B";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"mbo Oßwald";"";
+"TraceParts.PartVersion";"1.2.3";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"de";"";
+"TraceParts.ClassPath";"MBO:69-07022011-059809";"";
