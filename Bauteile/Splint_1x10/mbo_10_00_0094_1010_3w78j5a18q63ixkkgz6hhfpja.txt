@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"69-10022011-081950";"";
+"REFERENCE";"10 00 0094 1010";"";
+"TraceParts.PartTitle";"Splinte DIN 94";"";
+"TraceParts.InstanceId";"69-10022011-0819502553LFIDMU0XYN1GK7MH5AECQ";"";
+"DESIGN";"Splint DIN 94";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"mbo Oßwald";"";
+"TraceParts.PartVersion";"1.1.7";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"de";"";
+"TraceParts.ClassPath";"MBO:69-10022011-081950";"";

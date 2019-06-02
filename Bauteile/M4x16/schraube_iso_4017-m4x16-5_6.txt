@@ -1,0 +1,16 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"ISO 4017 - d M4 x l 16 - 5.6";"";
+"MATERIAL";"Stahl";"";
+"TraceParts.PartStatus";"Published";"";
+"DESIGN";"Sechskantschraube ISO 4017 - M4 x 16 - 5.6";"";
+"TraceParts.PartNumber";"10-10052001-132395";"";
+"TraceParts.PartLanguage";"de";"";
+"STANDARD";"ISO 4017";"";
+"TraceParts.InstanceId";"10-10052001-132395AK9RHSW5A7LSD8QQJDDZIJKL5";"";
+"TraceParts.PartTitle";"Sechkantschraube - Produktgüteklassen A und B";"";
+"NOTE";"Klasse: 5.6";"";
+"TraceParts.PartVersion";"1.4.8";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"ISO:10-10052001-132395";"";
+"TraceParts.PartStandardAcronym";"ISO";"";
